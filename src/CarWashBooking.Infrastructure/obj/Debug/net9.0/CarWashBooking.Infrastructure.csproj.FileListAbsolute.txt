@@ -17,3 +17,4 @@ C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Infrastructure\obj\Deb
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Infrastructure\obj\Debug\net9.0\CarWashBooking.Infrastructure.pdb
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Infrastructure\obj\Debug\net9.0\CarWashBooking.Infrastructure.genruntimeconfig.cache
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Infrastructure\obj\Debug\net9.0\ref\CarWashBooking.Infrastructure.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Infrastructure\obj\Debug\net9.0\CarWashBooking.Infrastructure.sourcelink.json

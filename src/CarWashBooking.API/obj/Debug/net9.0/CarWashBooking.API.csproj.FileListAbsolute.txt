@@ -166,3 +166,4 @@ C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.API\obj\Debug\net9.0\r
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.API\obj\Debug\net9.0\CarWashBooking.API.pdb
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.API\obj\Debug\net9.0\CarWashBooking.API.genruntimeconfig.cache
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.API\obj\Debug\net9.0\ref\CarWashBooking.API.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.API\obj\Debug\net9.0\CarWashBooking.API.sourcelink.json

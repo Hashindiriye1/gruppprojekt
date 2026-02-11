@@ -13,3 +13,4 @@ C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Application\obj\Debug\
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Application\obj\Debug\net9.0\refint\CarWashBooking.Application.dll
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Application\obj\Debug\net9.0\CarWashBooking.Application.pdb
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Application\obj\Debug\net9.0\ref\CarWashBooking.Application.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Application\obj\Debug\net9.0\CarWashBooking.Application.sourcelink.json

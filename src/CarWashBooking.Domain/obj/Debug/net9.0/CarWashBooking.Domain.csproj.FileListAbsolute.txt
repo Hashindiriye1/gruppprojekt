@@ -9,3 +9,4 @@ C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\refint\CarWashBooking.Domain.dll
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.pdb
 C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\ref\CarWashBooking.Domain.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.sourcelink.json
