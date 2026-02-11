@@ -14,7 +14,7 @@ builder.Services.AddCors(o => o.AddDefaultPolicy(p => p.AllowAnyOrigin().AllowAn
 
 var app = builder.Build();
 
-app.UseMiddleware<GlobalExceptionMiddleware>
+app.UseMiddleware<GlobalExceptionMiddleware>();
 app.UseCors();
 if (app.Environment.IsDevelopment())
 {
