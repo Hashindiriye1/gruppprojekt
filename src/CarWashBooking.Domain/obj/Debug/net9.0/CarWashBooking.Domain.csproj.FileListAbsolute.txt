@@ -1,0 +1,11 @@
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\bin\Debug\net9.0\CarWashBooking.Domain.deps.json
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\bin\Debug\net9.0\CarWashBooking.Domain.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\bin\Debug\net9.0\CarWashBooking.Domain.pdb
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.AssemblyInfo.cs
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\refint\CarWashBooking.Domain.dll
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\CarWashBooking.Domain.pdb
+C:\Users\Hashim\Documents\gruppprojekt\src\CarWashBooking.Domain\obj\Debug\net9.0\ref\CarWashBooking.Domain.dll
